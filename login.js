@@ -7,6 +7,12 @@ function login() {
     // Credenciais de exemplo
     const validUsername = "ana";
     const validPassword = "123";
+    const validUsername = "myharakiri";
+    const validPassword = "123";
+    const validUsername = "visitante";
+    const validPassword = "123";
+    
+    
     
     
 
@@ -28,6 +34,11 @@ function login() {
     // Credenciais de exemplo
     const validUsername = "marconi";
     const validPassword = "123";
+    const validUsername = "myharakiri";
+    const validPassword = "123";
+    const validUsername = "visitante";
+    const validPassword = "123";
+    
     
     
 
